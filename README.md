@@ -1,3 +1,3 @@
 -C++
-*Python
-+javascript
+-Python
+-javascript
